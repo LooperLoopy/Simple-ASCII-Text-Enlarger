@@ -1,0 +1,6 @@
+hello!!!! 1234567890
+the quick brown fox jumps over the lazy dog.
+System.out.print("Hello World!");
+"#"s don't work well in 3x3...
+1 + 1 * 2 = fish?
+!"#$%&'()*+,-./:;<=>?@
